@@ -1,6 +1,6 @@
 # survival_flutter
 
-이준석 생존코딩시리즈 - 플러터(flutter)
+이준석 생존코딩시리즈 - 플러터(flutter)를 스터디한 기록
 
 ## Getting Started
 
