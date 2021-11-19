@@ -1,21 +1,21 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(SampleApp());
-
-class SampleApp extends StatelessWidget {
-  const SampleApp({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(primarySwatch: Colors.blue,),
-      home: MyHomePage(
-        title: '01_sample_app',
-      ),
-    );
-  }
-}
+// void main() => runApp(SampleApp());
+//
+// class SampleApp extends StatelessWidget {
+//   const SampleApp({Key? key}) : super(key: key);
+//
+//   @override
+//   Widget build(BuildContext context) {
+//     return MaterialApp(
+//       title: 'Flutter Demo',
+//       theme: ThemeData(primarySwatch: Colors.blue,),
+//       home: MyHomePage(
+//         title: '01_sample_app',
+//       ),
+//     );
+//   }
+// }
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({Key? key, required this.title}) : super(key: key);
